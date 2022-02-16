@@ -1,2 +1,6 @@
-# aaa
-my first repository
+
+#include<stdio.h>
+int main(){
+    printf("%d",hello world);
+    return 0;
+    }
